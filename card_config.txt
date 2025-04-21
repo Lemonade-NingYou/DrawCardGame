@@ -1,0 +1,26 @@
+# 卡牌配置文件
+# 格式: 卡牌名称,稀有度(B/A/S)
+
+# B级卡牌 (89%概率)
+中文,B
+Computer expert,B
+undefined behaviour,B
+Boeing,B
+Silicon Valley,B
+the White House,B
+University of California,B
+At&T Bell Laboratory,B
+
+# A级卡牌 (10%概率)
+Open AI,A
+Google,A
+Apple,A
+Microsoft,A
+IBM,A
+AT&T,A
+
+# S级卡牌 (1%概率)
+GNU/Linux,S
+Debian,S
+Mac OS,S
+Windows,S
